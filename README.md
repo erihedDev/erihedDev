@@ -1,5 +1,4 @@
-### Hello 👋
-## I like programming!
+### Hello, I like programming!
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,css,html,react,node,tailwind" />
