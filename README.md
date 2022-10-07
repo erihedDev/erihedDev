@@ -2,7 +2,7 @@
 
 ## Awesome skills I have aquired!
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,css,html,react,node,tailwind" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow,py,selenium,js,css,html,react,nodejs,tailwind,vite,mysql,lua"/>
 </a>
 <br>
 <br>
