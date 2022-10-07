@@ -1,4 +1,4 @@
-### Hello, I like programming!
+# Hello, I like programming!
 
 ## Awesome skills I have aquired!
 <a href="https://skillicons.dev">
