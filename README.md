@@ -1,13 +1,13 @@
 # Hello, I like programming!
 
-## Skillz
+## Stuff
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=stackoverflow,py,selenium,js,css,html,react,nodejs,tailwind,vite,mysql,lua"/>
 </a>
 <br>
 <br>
 
-## Some sort of statistic about me?
+## More stuff
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erihedDev&layout=compact&theme=synthwave&langs_count=10&hide_border=true&bg_color=22272e" />
 </a>
